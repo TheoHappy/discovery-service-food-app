@@ -1,0 +1,11 @@
+{
+  "name": "discovery-service-food-app",
+  "addons": [
+    "logentries"
+  ],
+  "buildpacks": [
+    {
+      "url": "heroku/gradle"
+    }
+  ]
+}
